@@ -1,0 +1,497 @@
+[
+  {
+    "type" : 1,
+    "title": "Provinsi Jawa Barat"
+  },
+  {
+    "title": "Wisata Pegunungan",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Kawah putih",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "kawah_putih"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Tangkuban Perahu",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "tangkuban_perahu"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gunung Papandayan",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_papandayan"
+
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gunung Ciremai",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_ciremai"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gunung Cikuray",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_cikuray"
+      }
+    ]
+  },
+  {
+    "title": "Wisata Pantai",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Pantai Pelabuhan Ratu",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_pelabuhan_ratu"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Batu Karas",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_batu_karas"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Sayang Heulang",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_sayang_heulang"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Pangandaran",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_pangandaran"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Anyer",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_anyer"
+      }
+    ]
+  },
+  {
+    "title": "Makanan Khas",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Tahu Sumedang",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "tahu_sumedang"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Serabi Bandung",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "serabi_bandung"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Sate Maranggi",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "sate_maranggi"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Batagor",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "batagor"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Dodol Garut",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "dodol_garut"
+      }
+    ]
+  },
+  {
+    "title": "Budaya",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Angklung Dogdog Lojor",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "angklung"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wayang Golek",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "wayang_golek"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Kuda Renggong",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "kuda_renggong"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Tutunggulan",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "tutunggulan"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pencak Silat",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pencaksilat"
+      }
+    ]
+  },{
+  "type" : 1,
+  "title": "Provinsi Jawa Tengah"
+},
+  {
+    "title": "Wisata Pegunungan",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Gunung Merbabu",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_merbabu"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gunung Sikunir",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_sikunir"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gunung Sindoro Sumbing",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_sindorosumbing"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gunung Prau",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_prau"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gunung Merapi",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_merapi"
+      }
+    ]
+  },
+  {
+    "title": "Wisata Pantai",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Pantai Tanjung Gelam",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_tanjunggelam"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Menganti",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_menganti"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Karang Bolong",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_karangbolong"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Karang Pandan",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_karangpandan"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Bandengan",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_bandengan"
+      }
+    ]
+  },
+  {
+    "title": "Makanan Khas",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Lumpia",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "lumpia"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Wingko",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "wingko_babat"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Mendoan",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "mendoan"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gudeg",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gudeg"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Roti Ganjel Rel",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "roti_ganjel"
+      }
+    ]
+  },
+  {
+    "title": "Budaya",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Tradisi Gunungan Megono",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "tradisi_gunungan"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Tradisi Upacara Ruwatan",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "tradisi_ruwatan"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Tradisi Kebo-Keboan",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "tradisi_kebo"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Tradisi Upacara Larung Sesaji",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "tradisi_larung"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Tradisi Upacara Dugderan",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "tradisi_dugderan"
+      }
+    ]
+  },{
+  "type" : 1,
+  "title": "Provinsi Jawa Timur"
+},
+  {
+    "title": "Wisata Pegunungan",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Gunung Bromo",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_bromo"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gunung Ijen",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_ijen"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gunung Semeru",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_semeru"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gunung Lawu",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_lawu"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gunung Raung",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gunung_raung"
+      }
+    ]
+  },
+  {
+    "title": "Wisata Pantai",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Pantai Sukamande",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_sukamande"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Pulau Merah",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_merah"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Klayar",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_klayar"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Papuma",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_papuma"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pantai Teluk Ijo",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pantai_teluk"
+      }
+    ]
+  },
+  {
+    "title": "Makanan Khas",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Soto Lamongan",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "soto_lamongan"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Rawon",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "rawon"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Rujak Cingur",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "rujak_cingur"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Nasi Sego Pecel Madiun",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "pecel_madiun"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gado-Gado",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "gadogado"
+      }
+    ]
+  },
+  {
+    "title": "Budaya",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "4,5%",
+        "title": "Reog Ponorogo",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "reog_ponorogo"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Jaran Bodhag",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "jaran_bodhag"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Karapan Sapi",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "karapan_sapi"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Tradisi Upacara Kasada",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "upacara_kasada"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Ritual Tumpeng Sewu",
+        "description": "4,5%",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "ritual_tumpeng"
+
+
+      }
+
+    ]
+  }
+]
+

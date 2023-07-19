@@ -1,0 +1,336 @@
+[
+  {
+    "type": 1,
+    "channelId": "0",
+    "category": "Wisata Gunung di\nJawa Barat",
+    "videos": [
+      {
+        "description": "",
+        "source": "https://drive.google.com/uc?export=download&id=1D2xRGYc5UMfl947sXTaE8IbEf_DQ1emN",
+        "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+        "card": "https://drive.google.com/uc?export=download&id=1yPgLS86wyDgE0djIUetQZIcNmSqxUJHm",
+        "background": "https://drive.google.com/uc?export=download&id=1yPgLS86wyDgE0djIUetQZIcNmSqxUJHm",
+        "title": "Gunung Kawah Putih",
+        "category": "Google+",
+        "videoId": "0"
+      },
+      {
+        "description": "",
+        "source": "https://drive.google.com/uc?export=download&id=1t_lZDRLsREXIzaJNX-RvRSMuSWNT1gke",
+        "preview": "https://drive.google.com/uc?export=download&id=1t_lZDRLsREXIzaJNX-RvRSMuSWNT1gke",
+        "card": "https://drive.google.com/uc?export=download&id=1Nd6OnnLNcCgVPOlpoPGZrQdF429Xs7t2",
+        "background": "https://drive.google.com/uc?export=download&id=1Nd6OnnLNcCgVPOlpoPGZrQdF429Xs7t2",
+        "title": "Gunung Cikuray",
+        "category": "Google+",
+        "videoId": "1"
+      },
+      {
+        "description": "",
+        "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+        "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+        "card": "https://drive.google.com/uc?export=download&id=1135AKOtV9Im638UlGkECAy7LsqRa7Jx-",
+        "background": "https://drive.google.com/uc?export=download&id=1135AKOtV9Im638UlGkECAy7LsqRa7Jx-",
+        "title": "Gunung Papandayan",
+        "category": "Google+",
+        "videoId": "2"
+      },
+      {
+        "description": "",
+        "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+        "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+        "card": "https://drive.google.com/uc?export=download&id=1nesYuajh3lhIpC4nAQNawFd91fu_qZmw",
+        "background": "https://drive.google.com/uc?export=download&id=1nesYuajh3lhIpC4nAQNawFd91fu_qZmw",
+        "title": "Gunung Ciremai",
+        "category": "Google+",
+        "videoId": "3"
+      },
+      {
+        "description": "",
+        "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+        "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+        "card": "https://drive.google.com/uc?export=download&id=1JYV2kPpN46fqkuI5tbsW-hu2tPOcFI1X",
+        "background": "https://drive.google.com/uc?export=download&id=1JYV2kPpN46fqkuI5tbsW-hu2tPOcFI1X",
+        "title": "Gunung Salak",
+        "category": "Google+",
+        "videoId": "4"
+      }
+    ]
+  },{
+  "channelId": "1",
+  "category": "Wisata Pantai di\nJawa Barat",
+  "videos": [
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=184J7j_i_7h7dmEGHw8-BNXoegooMfx28",
+      "background": "https://drive.google.com/uc?export=download&id=184J7j_i_7h7dmEGHw8-BNXoegooMfx28",
+      "title": "Pantai Pangandaran",
+      "category": "Google+",
+      "videoId": "5"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1B_d9L0UFllcxcogOfKevOD3RJWtWyjMv",
+      "background": "https://drive.google.com/uc?export=download&id=1B_d9L0UFllcxcogOfKevOD3RJWtWyjMv",
+      "title": "Pantai Pelabuhan Ratu",
+      "category": "Google+",
+      "videoId": "6"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1J3emXOC_ne4N4YvfgYC2YhOWDahCEZpa",
+      "background": "https://drive.google.com/uc?export=download&id=1J3emXOC_ne4N4YvfgYC2YhOWDahCEZpa",
+      "title": "Pantai Sayang Heulang",
+      "category": "Google+",
+      "videoId": "7"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=16lQzyzHUPJf1Q5OQquoyRcLWlfEWkQSX",
+      "background": "https://drive.google.com/uc?export=download&id=16lQzyzHUPJf1Q5OQquoyRcLWlfEWkQSX",
+      "title": "Pantai Anyer",
+      "category": "Google+",
+      "videoId": "8"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1giXWk7hCU2hfP1cES_gdNl_k9qQLs96M",
+      "background": "https://drive.google.com/uc?export=download&id=1giXWk7hCU2hfP1cES_gdNl_k9qQLs96M",
+      "title": "Pantai Batu Karas",
+      "category": "Google+",
+      "videoId": "9"
+    }
+  ]
+},{
+  "channelId": "2",
+  "category": "Wisata Gunung di\nJawa Tengah",
+  "videos": [
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1vjjWaNBermPUmvwSxgzXGL16V_EFAyo_",
+      "background": "https://drive.google.com/uc?export=download&id=1vjjWaNBermPUmvwSxgzXGL16V_EFAyo_",
+      "title": "Gunung Merbabu",
+      "category": "Google+",
+      "videoId": "10"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=19jZC9QEFF5lVR7YeTBu8J1OnahXZjUkD",
+      "background": "https://drive.google.com/uc?export=download&id=19jZC9QEFF5lVR7YeTBu8J1OnahXZjUkD",
+      "title": "Gunung Sikunir",
+      "category": "Google+",
+      "videoId": "11"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=11YlBdUin-2n0ubkz4Tz8COnEwpTOjAO9",
+      "background": "https://drive.google.com/uc?export=download&id=11YlBdUin-2n0ubkz4Tz8COnEwpTOjAO9",
+      "title": "Gunung Sindoro Sumbing",
+      "category": "Google+",
+      "videoId": "12"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=18rIeMn7YHpBTAq3MF2LVK5VJvHpIU2Oa",
+      "background": "https://drive.google.com/uc?export=download&id=18rIeMn7YHpBTAq3MF2LVK5VJvHpIU2Oa",
+      "title": "Gunung Prau",
+      "category": "Google+",
+      "videoId": "13"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=12n7J_LNsmIbT-JZTJuM-Ijm-zdDFhU9O",
+      "background": "https://drive.google.com/uc?export=download&id=12n7J_LNsmIbT-JZTJuM-Ijm-zdDFhU9O",
+      "title": "Gunung Merapi",
+      "category": "Google+",
+      "videoId": "14"
+    }
+  ]
+},{
+  "channelId": "3",
+  "category": "Wisata Pantai di\nJawa Tengah",
+  "videos": [
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1LdIUaSxRYD3Uvqq_N1haHG8P0sXiG2ma",
+      "background": "https://drive.google.com/uc?export=download&id=1LdIUaSxRYD3Uvqq_N1haHG8P0sXiG2ma",
+      "title": "Pantai Tanjung Gelam",
+      "category": "Google+",
+      "videoId": "15"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1UMCH5Wi9F3SrdSdN3Igh97jvYPtNNTAv",
+      "background": "https://drive.google.com/uc?export=download&id=1UMCH5Wi9F3SrdSdN3Igh97jvYPtNNTAv",
+      "title": "Pantai Menganti",
+      "category": "Google+",
+      "videoId": "16"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1OqoLVYomtVRv9VsXod55v1iyfU8Qaozc",
+      "background": "https://drive.google.com/uc?export=download&id=1OqoLVYomtVRv9VsXod55v1iyfU8Qaozc",
+      "title": "Pantai Karang Bolong",
+      "category": "Google+",
+      "videoId": "17"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1SBKUOnnMTESikUb1SdlVUBpufTGYttCg",
+      "background": "https://drive.google.com/uc?export=download&id=1SBKUOnnMTESikUb1SdlVUBpufTGYttCg",
+      "title": "Pantai Karang Pandan",
+      "category": "Google+",
+      "videoId": "18"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1AcvWMLwi1P314x9CGxkhtGaXvhtUIqOE",
+      "background": "https://drive.google.com/uc?export=download&id=1AcvWMLwi1P314x9CGxkhtGaXvhtUIqOE",
+      "title": "Pantai Bandengan",
+      "category": "Google+",
+      "videoId": "19"
+    }
+  ]
+},{
+  "channelId": "4",
+  "category": "Wisata Gunung di\nJawa Timur",
+  "videos": [
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1IWD_oSMZVPcIn0NWtpXzEdFr9v9h1u6d",
+      "background": "https://drive.google.com/uc?export=download&id=1IWD_oSMZVPcIn0NWtpXzEdFr9v9h1u6d",
+      "title": "Gunung Bromo",
+      "category": "Google+",
+      "videoId": "20"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1Hy3mMcL90wOTFrvLxXqntHmmkYZDlAb0",
+      "background": "https://drive.google.com/uc?export=download&id=1Hy3mMcL90wOTFrvLxXqntHmmkYZDlAb0",
+      "title": "Gunung Ijen",
+      "category": "Google+",
+      "videoId": "21"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=13spZOOG-fvTpDzAUP7hO7-DLxD7beQ5t",
+      "background": "https://drive.google.com/uc?export=download&id=13spZOOG-fvTpDzAUP7hO7-DLxD7beQ5t",
+      "title": "Gunung Semeru",
+      "category": "Google+",
+      "videoId": "22"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1Z3s3S4Ze6C3EHfVJ5DS9xkQtv3Qhauzt",
+      "background": "https://drive.google.com/uc?export=download&id=1Z3s3S4Ze6C3EHfVJ5DS9xkQtv3Qhauzt",
+      "title": "Gunung Lawu",
+      "category": "Google+",
+      "videoId": "23"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1DKWWaX2VUHhNOFQmg64I8J9rTHu1H_b-",
+      "background": "https://drive.google.com/uc?export=download&id=1DKWWaX2VUHhNOFQmg64I8J9rTHu1H_b-",
+      "title": "Gunung Raung",
+      "category": "Google+",
+      "videoId": "24"
+    }
+  ]
+},
+
+  {
+  "channelId": "5",
+  "category": "Wisata Pantai di\nJawa Timur",
+  "videos": [
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=16F4392FqmOlAwmTb4pAfo8nqM23IKxim",
+      "background": "https://drive.google.com/uc?export=download&id=16F4392FqmOlAwmTb4pAfo8nqM23IKxim",
+      "title": "Pantai Sukamande",
+      "category": "Google+",
+      "videoId": "25"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1qH4T_qalPBiOIYnY9CHRZGm6JKdjzsS7",
+      "background": "https://drive.google.com/uc?export=download&id=1qH4T_qalPBiOIYnY9CHRZGm6JKdjzsS7",
+      "title": "Pantai Pulau Merah",
+      "category": "Google+",
+      "videoId": "26"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1IHy3Jgb6KLtMhi0VK2csyot03OpnaE26",
+      "background": "https://drive.google.com/uc?export=download&id=1IHy3Jgb6KLtMhi0VK2csyot03OpnaE26",
+      "title": "Pantai Klayar",
+      "category": "Google+",
+      "videoId": "27"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1ADc8-mIgw71ovNh9KciABNeXznvBlXrR",
+      "background": "https://drive.google.com/uc?export=download&id=1ADc8-mIgw71ovNh9KciABNeXznvBlXrR",
+      "title": "Pantai Papuma",
+      "category": "Google+",
+      "videoId": "28"
+    },
+    {
+      "description": "",
+      "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+      "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
+      "card": "https://drive.google.com/uc?export=download&id=1zW5evnXDKws0gKyFqEJIL1d6LczMhIpv",
+      "background": "https://drive.google.com/uc?export=download&id=1zW5evnXDKws0gKyFqEJIL1d6LczMhIpv",
+      "title": "Pantai Teluk Ijo",
+      "category": "Google+",
+      "videoId": "29"
+    }
+  ]
+}
+]
