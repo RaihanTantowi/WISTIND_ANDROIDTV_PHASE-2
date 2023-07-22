@@ -11,3 +11,8 @@ Anggota Kelompok : Ikram Ramadhan        - (Group Leader)
                    Endang Putri Lestari  - (DataBase)
 ```
 #### *WISTIND (Wisata Indonesia)*  Merupakan sebuah aplikasi Android TV yang isi konten aplikasi di dalamnya menunjukan Tempat Wisata (Wisata Gunung & Wisata Pantai) yang berada di Pulau Jawa.
+
+
+![gambar1](img/ss1.jpg)
+
+![gambar2](img/ss2.jpg)
